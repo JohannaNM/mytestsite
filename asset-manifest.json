@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/JohannaNM/mytestsite/static/css/main.5dafea14.css",
+    "main.js": "/JohannaNM/mytestsite/static/js/main.8fb09282.js",
+    "static/js/592.25966aff.chunk.js": "/JohannaNM/mytestsite/static/js/592.25966aff.chunk.js",
+    "index.html": "/JohannaNM/mytestsite/index.html",
+    "main.5dafea14.css.map": "/JohannaNM/mytestsite/static/css/main.5dafea14.css.map",
+    "main.8fb09282.js.map": "/JohannaNM/mytestsite/static/js/main.8fb09282.js.map",
+    "592.25966aff.chunk.js.map": "/JohannaNM/mytestsite/static/js/592.25966aff.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5dafea14.css",
+    "static/js/main.8fb09282.js"
+  ]
+}
